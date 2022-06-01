@@ -1,0 +1,120 @@
+body {
+background-color: lightblue;
+color: DimGray;
+}
+
+p {
+  background-color: yellow;
+}
+
+h1 {
+color: darkblue;
+}
+
+header {
+  background-color: orange;
+}
+
+footer {
+  background-color: pink;
+}
+
+table {
+  width: 80%;
+}
+
+#een {
+  background-color: LightCoral;
+}
+
+#twee {
+  background-color: Salmon;
+}
+
+#drie {
+  background-color: DarkSalmon;
+}
+
+#vier {
+  background-color: LightSalmon;
+}
+
+#vijf {
+  background-color: OrangeRed;
+}
+
+#zes {
+  background-color: Tomato;
+}
+
+#zeven {
+  background-color: DarkOrange;
+}
+
+#acht {
+  background-color: Coral;
+}
+
+#negen {
+  background-color: Olive;
+}
+
+#tien {
+  background-color: DarkOliveGreen;
+}
+
+#elf {
+  background-color: DarkSeaGreen;
+}
+
+#twaalf {
+  background-color: LightPink;
+}
+
+#dertien {
+  background-color: DarkCyan;
+}
+
+#veertien {
+  background-color: PaleTurquoise;
+}
+
+#vijftien {
+  background-color: Plum;
+}
+
+#zestien {
+  background-color: Lavender;
+}
+
+#teksteen {
+  background-color: green;
+}
+
+#tekstdrie {
+  background-color: pink;
+}
+
+#tekstvijf {
+  background-color: Wheat;
+}
+
+#tekstzeven {
+  background-color: Chocolate;
+}
+
+#tekstnegen {
+  background-color: RosyBrown;
+}
+
+#tekstelf {
+  background-color: Bisque;
+}
+
+#tekstdertien {
+  background-color: Honeydew;
+}
+
+#tekstvijftien {
+  background-color: Silver;
+}
